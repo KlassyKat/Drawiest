@@ -13,6 +13,7 @@
 
 <style lang="scss">
 	.canvas {
+		position: relative;
 		height: 100%;
 	}
 </style>
